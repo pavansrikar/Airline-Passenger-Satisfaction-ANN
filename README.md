@@ -26,7 +26,11 @@ Key drivers of satisfaction included inflight service, seat comfort, and cleanli
 Provided actionable insights for airlines to focus on improving customer satisfaction and experience.
 
 💡 Skills Gained:
+
 Deep Learning: Gained practical experience in building and training ANN models.
+
 Data Preprocessing: Enhanced skills in preparing complex datasets for deep learning applications.
+
 Model Optimization: Developed an understanding of hyperparameter tuning and regularization techniques for neural networks.
+
 Python Libraries: Used TensorFlow, Keras, Pandas, and Matplotlib for data manipulation, model building, and visualization.
