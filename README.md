@@ -30,10 +30,3 @@ Deep Learning: Gained practical experience in building and training ANN models.
 Data Preprocessing: Enhanced skills in preparing complex datasets for deep learning applications.
 Model Optimization: Developed an understanding of hyperparameter tuning and regularization techniques for neural networks.
 Python Libraries: Used TensorFlow, Keras, Pandas, and Matplotlib for data manipulation, model building, and visualization.
-
-🔗 Project Link:
-Check out the full project details on my GitHub: [GitHub Repository Link]
-
-This project solidified my passion for deep learning and its potential to drive impactful business insights. A big thanks to Innomatics Research Labs for their continuous support and guidance throughout my data science journey!
-
-#DeepLearning #ArtificialNeuralNetworks #MachineLearning #AirlineSatisfaction #TensorFlow #Keras #DataScience #Python #InnomaticsResearchLabs #AIProject
